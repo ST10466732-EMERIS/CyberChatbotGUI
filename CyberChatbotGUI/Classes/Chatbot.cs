@@ -136,7 +136,8 @@ namespace CyberChatbot
                 "Always enable two-factor authentication (2FA) when possible.",
                 "Keep your software and operating system updated.",
                 "Be cautious when using public Wi-Fi networks.",
-                "Use strong antivirus software."
+                "Use strong antivirus software.",
+                "Avoid downloading files from untrusted websites."
             };
             return tips[rnd.Next(tips.Count)];
         }
