@@ -7,6 +7,7 @@
         WindowStartupLocation="CenterScreen">
 
     <Grid>
+        <!-- Main Chat Layout -->
         <!-- Header -->
         <Border Background="#FF007ACC" Height="60" VerticalAlignment="Top">
             <TextBlock Text="🛡️ CyberGuard Chatbot - Stay Safe Online!" 
