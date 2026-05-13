@@ -1,7 +1,7 @@
 ﻿<Window x:Class="CyberChatbot.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="CyberGuard - Cybersecurity Awareness Chatbot" 
+        Title="CyberGuard - Cybersecurity Awareness Chatbot (Part 2)" 
         Height="650" Width="850"
         Background="#FF1E1E1E" Foreground="White"
         WindowStartupLocation="CenterScreen">
