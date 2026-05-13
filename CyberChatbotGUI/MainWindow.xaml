@@ -9,7 +9,7 @@
     <Grid>
         <!-- Header -->
         <Border Background="#FF007ACC" Height="60" VerticalAlignment="Top">
-            <TextBlock Text="🛡️ CyberGuard Chatbot" 
+            <TextBlock Text="🛡️ CyberGuard Chatbot - Stay Safe Online!" 
                        FontSize="28" FontWeight="Bold" 
                        HorizontalAlignment="Center" VerticalAlignment="Center"
                        Foreground="White"/>
