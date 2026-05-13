@@ -169,5 +169,6 @@ namespace CyberChatbot
             if (lower.Contains("scam") || lower.Contains("phishing")) return "Scams & Phishing";
             return "Cybersecurity";
         }
+        // Chatbot core logic
     }
 }
