@@ -31,4 +31,5 @@
                 Background="#FF007ACC" Foreground="White" FontWeight="Bold" FontSize="16"
                 Click="SendButton_Click"/>
     </Grid>
+    <!-- Final UI version -->
 </Window>
