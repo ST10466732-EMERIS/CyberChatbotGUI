@@ -17,6 +17,7 @@ namespace CyberChatbot
         {
             LoadResponses();
             PlayGreeting();
+            Console.WriteLine("Welcome to CyberGuard Chatbot!");
         }
 
         private void LoadResponses()
